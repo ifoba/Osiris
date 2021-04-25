@@ -1,0 +1,11 @@
+.teams__container {
+    display: flex;
+    justify-content: space-around;
+    height: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.App {
+    min-height: 100vh;
+    overflow: hidden;
+}
